@@ -2,8 +2,6 @@
 
 An interactive toy that turns the Rubik's cube into a graph, then follows the same idea into higher dimensions.
 
-**▶ Play it here:** https://yourname.github.io/rubik-graph/
-
 ## The idea
 - Every **sticker** is a dot.
 - Every **slice** of the cube is a closed **loop of 12 dots**.
